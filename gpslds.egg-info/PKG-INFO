@@ -1,0 +1,7 @@
+Metadata-Version: 2.2
+Name: gpslds
+Version: 0.1
+Summary: Gaussian process switching linear dynamical systems
+Requires-Python: >=3.9
+Dynamic: requires-python
+Dynamic: summary

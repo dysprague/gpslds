@@ -1,0 +1,16 @@
+README.md
+pyproject.toml
+setup.py
+gpslds/__init__.py
+gpslds/em.py
+gpslds/initialization.py
+gpslds/kernels.py
+gpslds/likelihoods.py
+gpslds/quadrature.py
+gpslds/simulate_data.py
+gpslds/transition.py
+gpslds/utils.py
+gpslds.egg-info/PKG-INFO
+gpslds.egg-info/SOURCES.txt
+gpslds.egg-info/dependency_links.txt
+gpslds.egg-info/top_level.txt
